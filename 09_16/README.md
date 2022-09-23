@@ -1,12 +1,22 @@
-# 09/16 作業
+# 09/16 課程
 
-## Practice 1-1
+- [Practice 1-1](#practice-1-1)
+- [Practice 1-2](#practice-1-2)
+- [Course Note](#boilerplate)
+    - [Build-in Type](#build-in-type)
+    - [Console I/O](#io)
+    - [Type checking](#check-type)
+    - [Array & ForEach lopp](#array)
+
+## Homework
+### Practice 1-1
 ![](https://i.imgur.com/mknVCa0.png)
 
-## Practice 1-2 
+### Practice 1-2 
 ![](https://i.imgur.com/5LYaFcV.png)
 
-## C-Sharp Syntax
+## Course
+topic : `C#` syntax
 
 ### Boilerplate
 
@@ -78,11 +88,13 @@ bool isInt = int.TryParse( RawInput , out money);
 - Basic Syntax :
 `TYPE[] NAME = new TYPE[SIZE];`
 `TYPE[] NAME = new TYPE[] { v1 ,v2 ,v3 ... vn };`
+`TYPE[] NAME = { v1,v2,v3 ... vn };`
 ```cs
 int[] outArr = new int[5];
 string[] nameArr = new string[10];
 
 int[] initArr = new int[] { 1,2,3,4,5 };
+int[] initArr2 = { 1,2,3,4,5 };
 ```
 
 - Length
