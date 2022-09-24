@@ -1,21 +1,25 @@
 # 09/23 課程
 
-- [Practice 1-1](#practice-1-1)
-- [Practice 1-2](#practice-1-2)
-- [Course Note](#boilerplate)
-    - [Build-in Type](#build-in-type)
-    - [Console I/O](#io)
-    - [Type checking](#check-type)
-    - [Array & ForEach lopp](#array)
+- [Practice 2-1](#practice-2-1)
+- [Practice 2-2](#practice-2-2)
+- [Course Note](#course)
+    - [Array methods](#array-methods)
+    - [Random](#random)
+    - [Function pass paramater by reference](#pass-by-reference)
+    - [String methods](#string-methods)
 
 ## Homework
-### Practice 1-1
-![](https://i.imgur.com/mknVCa0.png)
+### Practice 2-1
 
-### Practice 1-2 
-![](https://i.imgur.com/5LYaFcV.png)
+![](https://i.imgur.com/YKIBZ3r.png)
+
+### Practice 2-2 
+**Basic Reversi Game**
+![](https://i.imgur.com/mqbgvvR.png)
+
+![](https://i.imgur.com/e0CbBlY.png)
 ## Course
-### Array method
+### Array methods
 require namespace : `System`
 
 - **Sort** ( default : increasing sort ) : 
@@ -69,5 +73,5 @@ private void Convert(ref int[] X ){
 }
 ```
 
-### String method 
+### String methods
 
