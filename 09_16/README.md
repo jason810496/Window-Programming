@@ -6,7 +6,7 @@
     - [Build-in Type](#build-in-type)
     - [Console I/O](#io)
     - [Type checking](#check-type)
-    - [Array & ForEach lopp](#array)
+    - [Array & ForEach loop](#array)
 
 ## Homework
 ### Practice 1-1
