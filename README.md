@@ -11,6 +11,6 @@
 一些上課有教的東西（ 與 `C++` 相似的語法就沒有紀錄了 ）
 
 - Week 1 : 
-[variables , I/O , Array , foreach ]()
+[variables , I/O , Array , foreach ](https://github.com/jason810496/C-Sharp-Homework/tree/master/09_23)
 - Week 2 :
-[Array method , ]()
+[Array method , String method ](https://github.com/jason810496/C-Sharp-Homework/tree/master/09_23)
