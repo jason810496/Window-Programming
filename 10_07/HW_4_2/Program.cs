@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace F74116720_practice_4_1
+namespace F74116720_practice_4_2
 {
     static class Program
     {
